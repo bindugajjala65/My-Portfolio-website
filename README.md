@@ -4,7 +4,7 @@ This is a personal portfolio website built using HTML and basic CSS. It features
 
 The Home page introduces who I am and showcases my work, while the Contact page provides a simple way for visitors to get in touch. The website is designed with a clean and minimal layout, focusing on clarity, easy navigation, and basic responsiveness.
 
-🔗 Live Website: 
+🔗 Live Website:  https://bindugajjala65.github.io/My-Portfolio-website/
 
 This project was created to strengthen my understanding of core web development concepts such as semantic HTML and CSS styling without using any external frameworks.
 
